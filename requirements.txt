@@ -1,5 +1,6 @@
+yfinance
 pandas
 ta
-yfinance
-aiohttp
+python-telegram-bot==13.15
+
 
